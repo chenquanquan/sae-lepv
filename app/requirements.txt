@@ -1,0 +1,6 @@
+requests===2.18.4
+flask-socketio
+simplejson===3.11.1
+gunicorn
+gevent
+flask
